@@ -1,5 +1,5 @@
 ---
-title: Example Category
+title: Code
 description: A description of this category
 image:
 
